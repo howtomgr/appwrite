@@ -1,0 +1,64 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:57.189672",
+  "default_ports": [
+    10,
+    80,
+    443,
+    999
+  ],
+  "dependencies": [],
+  "description": "Appwrite is an open-source backend-as-a-service platform that provides developers with all the core APIs required to build modern applications. It includes authentication, databases, storage, functions, and real-time capabilities.",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/appwrite",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/appwrite",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.189694",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "appwrite",
+  "repository_url": "https://github.com/howtomgr/appwrite",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "miscellaneous",
+    "containerization",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "security",
+    "data-protection",
+    "communication",
+    "networking"
+  ],
+  "title": "Appwrite Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/appwrite"
+}
